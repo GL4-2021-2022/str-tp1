@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "*.tcc": "c",
+        "condition_variable": "c"
+    }
+}
